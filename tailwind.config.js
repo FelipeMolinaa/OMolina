@@ -5,8 +5,9 @@ module.exports = {
     ],
     theme: {
         fontFamily: {
-            'protest': ['Protest Strike'],
-            'roboto': ['Roboto', 'sans-serif']
+            'roboto-mono': ['Roboto Mono', 'sans-serif'],
+            'Workbench': ['Workbench', 'sans-serif'],
+            'Cute-Font': ['Cute Font', 'sans-serif'],
         },
         extend: {},
     },
