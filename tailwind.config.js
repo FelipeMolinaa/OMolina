@@ -6,8 +6,7 @@ module.exports = {
     theme: {
         fontFamily: {
             'roboto-mono': ['Roboto Mono', 'sans-serif'],
-            'Workbench': ['Workbench', 'sans-serif'],
-            'Cute-Font': ['Cute Font', 'sans-serif'],
+            'anta': ['Anta', 'sans-serif'],
         },
         extend: {},
     },
