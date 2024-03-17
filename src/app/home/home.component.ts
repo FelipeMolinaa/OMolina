@@ -34,7 +34,6 @@ export class HomeComponent implements OnInit {
         "Batendo cabeça...",
         "Reescrevendo tudo...",
         "Invocando o Flexbox...",
-
     ]
 
     textoAtual = " "
